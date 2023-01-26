@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+```
 // Utility function for mixin font-size
 @mixin make-font-size($fs-font-size) {
   // If $fs-font-size is a list, include
@@ -35,6 +36,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     }
   }
 }
+```
 
 ## Available Scripts
 

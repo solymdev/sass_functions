@@ -1,0 +1,135 @@
+@import "../Breakpoints.scss";
+@import "./Functions.scss";
+
+$h1-bold-font-sizes: (
+  null: 8px,
+  mobile: (
+    32px,
+    48px,
+    500,
+  ),
+  tablet: (
+    44px,
+    77px,
+    500,
+  ),
+  desktop: (
+    70px,
+    77px,
+    500,
+  ),
+);
+
+$h1-font-sizes: (
+  null: 8px,
+  mobile: (
+    32px,
+    48px,
+    400,
+  ),
+  tablet: (
+    44px,
+    77px,
+    400,
+  ),
+  desktop: (
+    70px,
+    77px,
+    400,
+  ),
+);
+
+$h2-font-sizes: (
+  null: 8px,
+  mobile: (
+    30px,
+    45px,
+    500,
+  ),
+  tablet: (
+    38px,
+    50px,
+    500,
+  ),
+  desktop: (
+    44px,
+    50px,
+    500,
+  ),
+);
+
+$h3-font-sizes: (
+  null: 8px,
+  mobile: (
+    26px,
+    39px,
+    500,
+  ),
+  tablet: (
+    34px,
+    54px,
+    500,
+  ),
+  desktop: (
+    36px,
+    54px,
+    500,
+  ),
+);
+
+$h4-font-sizes: (
+  null: 8px,
+  mobile: (
+    22px,
+    33px,
+    500,
+  ),
+  tablet: (
+    30px,
+    40px,
+    500,
+  ),
+  desktop: (
+    32px,
+    40px,
+    500,
+  ),
+);
+
+$h5-font-sizes: (
+  null: 8px,
+  mobile: (
+    20px,
+    30px,
+    500,
+  ),
+  tablet: (
+    26px,
+    39px,
+    500,
+  ),
+  desktop: (
+    28px,
+    38px,
+    500,
+  ),
+);
+
+$h6-font-sizes: (
+  null: 8px,
+  mobile: (
+    18px,
+    27px,
+    500,
+  ),
+  tablet: (
+    18px,
+    27px,
+    500,
+  ),
+  desktop: (
+    20px,
+    30px,
+    500,
+  ),
+);
